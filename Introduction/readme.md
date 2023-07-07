@@ -1,5 +1,5 @@
 # Introduction
-<p align="center"><img src="/pics/1.jpg?raw=true" width="720px" /></p>
+<p align="center"><img src="/Introduction/pics/1.jpg?raw=true" width="720px" /></p>
 
 Hello there, music lovers and sound enthusiasts! Welcome to the amazing world of sound amplification, where we turn soft whispers into powerful roars! This is Amplifinity, your friendly guide through the intricacies of audio power amplification. 
 
@@ -7,7 +7,7 @@ Firstly, let's discuss two stars of the amplification world: preamplifiers and p
 
 # Preamplifiers: Not Just About Amplification
 
-<p align="center"><img src="/pics/2.jpg?raw=true" width="720px" /></p>
+<p align="center"><img src="/Introduction/pics/2.jpg?raw=true" width="720px" /></p>
 
 Imagine you are at a concert, and the singer is whispering into the microphone. Without some form of amplification, that whisper would never reach the ears of those in the back rows! This is where the preamplifier, or preamp, steps in. 
 
@@ -33,7 +33,7 @@ To sum up, a preamplifier takes your raw audio signal, amplifies it, and enhance
 
 # Power Amplifiers: The Unsung Heroes
 
-<p align="center"><img src="/pics/3.jpg?raw=true" width="720px" /></p>
+<p align="center"><img src="/Introduction/pics/3.jpg?raw=true" width="720px" /></p>
 
 Power amplifiers, these unsung heroes, take the curated line-level signals handed over by the preamps and boost them to a level that can drive your speakers, producing the sound that fills your space and your heart.
 
@@ -49,7 +49,7 @@ Now, it's important to note that there's a lively debate among audiophiles. Some
 
 # The World Without Power Amplifiers
 
-<p align="center"><img src="/pics/4.jpg?raw=true" width="720px" /></p>
+<p align="center"><img src="/Introduction/pics/4.jpg?raw=true" width="720px" /></p>
 
 Let's imagine, just for a moment, a world without power amplifiers. It's a quiet world, a world where there are no rock stars belting out powerful anthems in packed stadiums. There are no music festivals, no sea of fans moving rhythmically to the beat. Nashville, the heartland of music, wouldn't be known as Music City. The Grand Ole Opry would be just a grand old building. A world without power amplifiers would be a world without the shared, communal experience of music. It would be a quieter world, yes, but also a less connected one.
 
@@ -64,7 +64,7 @@ So, yes, people are willing to pay for a good sound. Because good sound is not j
 
 # Debunking the Price-Quality Myth
 
-<p align="center"><img src="/pics/5.jpg?raw=true" width="720px" /></p>
+<p align="center"><img src="/Introduction/pics/5.jpg?raw=true" width="720px" /></p>
 
 Often, in the quest for the ultimate sound experience, we fall into the trap of believing that the more expensive an amplifier is, the better its quality must be. This assumption is heavily influenced by subjective opinions, and while everyone is entitled to their preferences, it can sometimes lead to a stultifying effect on consumers. 
 
@@ -86,7 +86,7 @@ In conclusion, don't let the price tag fool you. Look deeper, consider these fac
 
 # The ABCs of Amplifier Classes: A, AB, and D
 
-<p align="center"><img src="/pics/6.jpg?raw=true" width="720px" /></p>
+<p align="center"><img src="/Introduction/pics/6.jpg?raw=true" width="720px" /></p>
 
 Welcome back to Amplifinity, your friendly guide through the exciting world of audio power amplification. Let's delve into the realm of amplifier classes today, specifically, Class A, Class AB, and Class D. Each class has unique characteristics that define how it operates and the kind of sound it produces. 
 
@@ -104,7 +104,7 @@ Finally, we have the Class D amplifiers, the ultra-marathon runners. They're dif
 
 # Power Amplifiers: The DIY Way
 
-<p align="center"><img src="/pics/7.jpg?raw=true" width="720px" /></p>
+<p align="center"><img src="/Introduction/pics/7.jpg?raw=true" width="720px" /></p>
 
 Modern Class D amplifier ICs and modules have brought the thrill of audio amplification to the masses. With these, you can power almost any kind of speaker for just a few bucks. They're highly efficient, compact, and stay cool even under heavy loads. But there's a trade-off: despite significant advancements, Class D designs often can't match the distortion figures of their Class AB counterparts.
 
@@ -132,7 +132,7 @@ So, don't be daunted! With some effort, learning, and patience, you can embark o
 
 # Amplifinity: Your Launchpad to DIY Power Amplifiers and Beyond
 
-<p align="center"><img src="/pics/8.jpg?raw=true" width="720px" /></p>
+<p align="center"><img src="/Introduction/pics/8.jpg?raw=true" width="720px" /></p>
 
 At Amplifinity, we're all about empowering you with the knowledge and resources to create your very own high-quality, audiophile-grade power amplifier. To do this, we'll provide you with verified schematics and PCB (Printed Circuit Board) designs, along with a list of specified components that are both easily available and do not compromise on performance. This means you can focus on the fun part - building your amp - without worrying about the reliability of your design or the availability of parts.
 

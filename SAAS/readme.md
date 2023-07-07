@@ -24,7 +24,7 @@ Sadly, many online (or magazine) reviews don't follow this method. Reviewers oft
 
 Here at Amplifinity, we encourage a balanced approach. While personal experience and emotional connection to sound are undeniably important, they should be accompanied by a good understanding of the underlying science. This way, we can appreciate sound in all its beauty, without losing sight of the principles that make it all possible.
 
-# An Objective Approach: The Science of Sound Appreciation
+## An Objective Approach: The Science of Sound Appreciation
 
 At Amplifinity, we believe that the best way to appreciate sound is by understanding the science behind it. This is where objective parameters such as Total Harmonic Distortion (THD), Frequency Response, and Slew Rate come into play.
 
@@ -36,3 +36,16 @@ At Amplifinity, we believe that the best way to appreciate sound is by understan
 
 Unfortunately, some corners of the audio world can be misleading, and manufacturers might cherry-pick data to paint their products in the best light. At Amplifinity, we stand against such practices. We believe in transparency and honesty. We provide designs that perform exceptionally well across all these parameters, not just under specific conditions.
  
+## Vacuum Tubes Vs. Transistors: A Sound Comparison
+
+In the enchanting world of audio, few topics spark as much passionate debate as the vacuum tube vs. transistor controversy. Let's delve into the characteristics of both, shall we?
+
+First up, **Vacuum Tubes**. They are the vintage charmers of the audio world. With their warm, glowing aesthetic and the magical quality of their sound, it's no surprise that many audiophiles are smitten with them. 
+
+However, it's essential to acknowledge their downsides. Vacuum tubes are heavy and fragile, demanding delicate handling and careful placement. They're also power-hungry, with significantly lower energy efficiency compared to their solid-state counterparts. On top of all that, they come with a hefty price tag, which can make them an expensive option for sound enthusiasts.
+
+On the other side of the fence are the **Transistors**. When incorporated into Class AB amplifier designs, transistors have a distinct advantage. Although these designs are prone to crossover distortion, this distortion can be engineered to be so low that it becomes completely imperceptible to the human ear.
+
+Moreover, transistors are sturdy, lightweight, and relatively inexpensive. They also offer superior performance in terms of energy efficiency and reliability. It's important to note that, contrary to some audiophile lore, transistors, when designed appropriately, can produce sound quality that rivals, or even surpasses, vacuum tubes.
+
+While vacuum tubes undoubtedly have a certain charm and a dedicated following, we at Amplifinity believe in a balance between performance, reliability, cost-effectiveness, and aesthetic appeal. That's why we focus on providing designs that harness the potential of transistors, delivering sound quality that meets the demands of even the most discerning audiophiles, while also catering to practical considerations.

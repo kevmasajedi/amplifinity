@@ -1,4 +1,4 @@
-# Chapter 2: The Sound Enthusiast's Appreciation of Sound
+# Chapter 2: The Sound Audiophile's Appreciation of Sound
 
 As you venture into the world of audio systems, you may come across a myriad of descriptive terms thrown around in reviews and forums – words like 'bright', 'forward', 'dark', and more. These terms might seem abstract, perhaps even esoteric, painting a picture of the audio world as a mysterious realm that requires 'golden ears' to fully appreciate.
 

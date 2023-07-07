@@ -16,5 +16,5 @@ So, are you ready to turn up the volume on your audio journey? Join us on Amplif
 | Chapter | Description |
 |---|---|
 | [Introduction](/Introduction) | This introductory chapter gives an overview of the exciting world of audio power amplification. |
-
+| [The Sound Audiophile's Appreciation of Sound](/SAAS) | In this chapter we debunk some myths about what does and what doesn't comprise great sound quality. |
  

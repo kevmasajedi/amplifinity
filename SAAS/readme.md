@@ -8,7 +8,7 @@ Contrary to this perception, appreciating great audio does not necessitate a sup
 
 In other words, the world of sound doesn't have to be shrouded in ambiguity. Yes, certain terms and concepts might be hard to grasp initially, but with a solid understanding of the underlying principles and parameters, you'll be able to navigate it with clarity and confidence.
 
-# The Subjective Appreciation of Sound
+## The Subjective Appreciation of Sound
 
 The subjective audiophiles are quite the enigmatic group within the audio community, often seen rejecting objective measurements and singing praises for instruments that, technically speaking, showcase poor distortion figures. 
 

@@ -49,3 +49,17 @@ On the other side of the fence are the **Transistors**. When incorporated into C
 Moreover, transistors are sturdy, lightweight, and relatively inexpensive. They also offer superior performance in terms of energy efficiency and reliability. It's important to note that, contrary to some audiophile lore, transistors, when designed appropriately, can produce sound quality that rivals, or even surpasses, vacuum tubes.
 
 While vacuum tubes undoubtedly have a certain charm and a dedicated following, we at Amplifinity believe in a balance between performance, reliability, cost-effectiveness, and aesthetic appeal. That's why we focus on providing designs that harness the potential of transistors, delivering sound quality that meets the demands of even the most discerning audiophiles, while also catering to practical considerations.
+
+## Distortion As A Matter of Taste?
+
+The topic of distortion in audio often brings to mind the old saying, "One person's music is another person's noise." Distortion, in simple terms, refers to the change in an original sound or signal. And while we generally aim for the lowest distortion to maintain sound fidelity, some distortions are indeed more 'pleasant' than others.
+
+Vacuum tubes, for instance, are known for their harmonic distortion, specifically second-order harmonics. These are even multiples of the original frequency, creating a sound that many people find pleasing. This characteristic 'tube sound' is often described as 'warm' or 'rich', and it's one of the reasons why vacuum tubes still hold a cherished place in the hearts of many audiophiles.
+
+On the other hand, transistor-based amplifiers often produce third and higher-order harmonics, which are odd multiples of the original frequency. These higher-order distortions tend to be more unpleasant to the human ear, often described as 'harsh' or 'grating'.
+
+This disparity in the harmonic content of distortion has led some subjective audiophiles to prefer vacuum tube amplifiers, despite their objectively higher Total Harmonic Distortion (THD) - sometimes as high as 3%. The pleasantness of these distortions can contribute to a perception of superior sound quality.
+
+But here's a key point to remember: distortion, no matter how pleasant, is still a deviation from the original sound. The aim of a high-quality audio system should be to reproduce the original audio signal as accurately as possible. For instance, you wouldn't want to hear a trumpet when the original sound was that of an elephant!
+
+At Amplifinity, we strive for accurate and transparent sound reproduction. While we acknowledge the 'charming distortions' of vacuum tubes, we focus on designs that deliver low distortion across the audio frequency spectrum. This ensures that you hear the music as it was intended to be heard, without unwanted coloration or changes.

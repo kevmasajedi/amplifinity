@@ -69,7 +69,7 @@ On the other hand, transistor-based amplifiers often produce third and higher-or
 This disparity in the harmonic content of distortion has led some subjective audiophiles to prefer vacuum tube amplifiers, despite their objectively higher Total Harmonic Distortion (THD) - sometimes as high as 3%. The pleasantness of these distortions can contribute to a perception of superior sound quality. We recommend watching this video from the [GreatScott!](https://www.youtube.com/@greatscottlab):
 
 <p align="center"><a href="http://www.youtube.com/watch?feature=player_embedded&v=RoSIzgvEGtA" target="_blank">
- <img src="http://img.youtube.com/vi/RoSIzgvEGtA/0.jpg" alt="Watch the video" width="480" height="360" border="10" />
+ <img src="http://img.youtube.com/vi/RoSIzgvEGtA/maxresdefault.jpg" alt="Watch the video" width="720" height="480" border="10" />
 </a> </p>
 
 But here's a key point to remember: distortion, no matter how pleasant, is still a deviation from the original sound. The aim of a high-quality audio system should be to reproduce the original audio signal as accurately as possible. For instance, you wouldn't want to hear a trumpet when the original sound was that of an elephant!

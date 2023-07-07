@@ -10,6 +10,8 @@ In other words, the world of sound doesn't have to be shrouded in ambiguity. Yes
 
 ## The Subjective Appreciation of Sound and Its Pitfalls
 
+<p align="center"><img src="/SAAS/pics/1.jpg?raw=true" width="720px" /></p>
+
 The subjective audiophiles are quite the enigmatic group within the audio community, often seen rejecting objective measurements and singing praises for instruments that, technically speaking, showcase poor distortion figures. 
 
 Now, you might be asking, "Why would anyone adore a system that is scientifically inferior?" Well, that's the crux of subjectivism. It's a belief that relies heavily on personal experience and emotional response, often discarding hard, empirical data.
@@ -26,6 +28,8 @@ Here at Amplifinity, we encourage a balanced approach. While personal experience
 
 ## An Objective Approach: The Science of Sound Appreciation
 
+<p align="center"><img src="/SAAS/pics/2.jpg?raw=true" width="720px" /></p>
+
 At Amplifinity, we believe that the best way to appreciate sound is by understanding the science behind it. This is where objective parameters such as Total Harmonic Distortion (THD), Frequency Response, and Slew Rate come into play.
 
 **Total Harmonic Distortion (THD)**: THD is a measure of how much an audio system can distort the original signal. Lower THD means less distortion and a truer representation of the original sound. However, some manufacturers may only provide THD figures at 1W and 1KHz - a scenario that often represents the best-case scenario and not the amplifier's overall performance. In our designs, we aim to provide worst-case THD levels of about 0.01% - a figure that delivers high-quality sound while being honest about the amplifier's capabilities.
@@ -37,7 +41,7 @@ At Amplifinity, we believe that the best way to appreciate sound is by understan
 Unfortunately, some corners of the audio world can be misleading, and manufacturers might cherry-pick data to paint their products in the best light. At Amplifinity, we stand against such practices. We believe in transparency and honesty. We provide designs that perform exceptionally well across all these parameters, not just under specific conditions.
  
 ## Vacuum Tubes Vs. Transistors: A Sound Comparison
-
+<p align="center"><img src="/SAAS/pics/v.jpg?raw=true" width="720px" /></p>
 In the enchanting world of audio, few topics spark as much passionate debate as the vacuum tube vs. transistor controversy. Let's delve into the characteristics of both, shall we?
 
 First up, **Vacuum Tubes**. They are the vintage charmers of the audio world. With their warm, glowing aesthetic and the magical quality of their sound, it's no surprise that many audiophiles are smitten with them. 
@@ -51,7 +55,7 @@ Moreover, transistors are sturdy, lightweight, and relatively inexpensive. They 
 While vacuum tubes undoubtedly have a certain charm and a dedicated following, we at Amplifinity believe in a balance between performance, reliability, cost-effectiveness, and aesthetic appeal. That's why we focus on providing designs that harness the potential of transistors, delivering sound quality that meets the demands of even the most discerning audiophiles, while also catering to practical considerations.
 
 ## Distortion As A Matter of Taste?
-
+<p align="center"><img src="/SAAS/pics/3.jpg?raw=true" width="720px" /></p>
 The topic of distortion in audio often brings to mind the old saying, "One person's music is another person's noise." Distortion, in simple terms, refers to the change in an original sound or signal. And while we generally aim for the lowest distortion to maintain sound fidelity, some distortions are indeed more 'pleasant' than others.
 
 Vacuum tubes, for instance, are known for their harmonic distortion, specifically second-order harmonics. These are even multiples of the original frequency, creating a sound that many people find pleasing. This characteristic 'tube sound' is often described as 'warm' or 'rich', and it's one of the reasons why vacuum tubes still hold a cherished place in the hearts of many audiophiles.

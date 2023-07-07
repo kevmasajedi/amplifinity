@@ -1,5 +1,7 @@
 # Welcome to Amplifinity!
 
+<p align="center"><img src="/pics/1.jpg?raw=true" width="720px" /></p>
+
 Hello there, sound enthusiasts, audiophiles, and DIYers! Welcome to Amplifinity - your one-stop shop for everything you need to know about audio power amplification. 
 
 Our aim is to take you on a captivating journey through the fascinating world of amplification, where the science of electronics meets the art of sound. We believe in simplicity and accessibility. That's why we strive to explain complex concepts in a user-friendly and engaging manner, with minimal jargon.

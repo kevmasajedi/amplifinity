@@ -34,4 +34,4 @@ So, where does that leave us? In practice, a good compromise is to aim for an in
 
 Thus, the process of choosing impedance values is a balancing act, one of many in the design of audio equipment.
 
-<p align="center"><img src="/UnderstandingImpedance/pics/1.png?raw=true" width="720px" /></p>
+<p align="center"><img src="/UnderstandingImpedance/pics/2.png?raw=true" width="720px" /></p>

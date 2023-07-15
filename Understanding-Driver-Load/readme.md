@@ -1,5 +1,7 @@
 # Chapter 3: Understanding Driver Load
 
+<p align="center"><img src="/Understanding-Driver-Load/pics/1.jpg?raw=true" width="720px" /></p>
+
 Let's talk about a parameter you may be familiar with when choosing a speaker driver - the impedance, which is often mistaken for resistance. If you've ever picked out a speaker driver, maybe for your car's sound system, you'll likely have seen these impedance values: 4, 6, 8, and less commonly, 2 ohms. Headphones typically have higher impedance values, but let's focus on loudspeakers for now.
 
 So, let's say you've built your power amplifier and you want to test its tolerance for different loads. How do you do that? By using resistors of similar value to the speaker impedance! However, this may lead some to protest, "But speakers have reactive impedance too! Their impedance changes across the audio frequency spectrum due to the parasitic capacitance and inductance of the drivers." And they'd be right! But here's the thing...

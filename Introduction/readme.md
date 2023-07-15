@@ -1,4 +1,4 @@
-# Introduction
+# Chapter 1: Introduction
 <p align="center"><img src="/Introduction/pics/1.jpg?raw=true" width="720px" /></p>
 
 Hello there, music lovers and sound enthusiasts! Welcome to the amazing world of sound amplification, where we turn soft whispers into powerful roars! This is Amplifinity, your friendly guide through the intricacies of audio power amplification. 

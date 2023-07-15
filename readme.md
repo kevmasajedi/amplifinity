@@ -19,4 +19,5 @@ So, are you ready to turn up the volume on your audio journey? Join us on Amplif
 |---|---|
 | [Introduction](/Introduction) | This introductory chapter gives an overview of the exciting world of audio power amplification. |
 | [The Sound Audiophile's Appreciation of Sound](/SAAS) | In this chapter we debunk some myths about what does and what doesn't comprise great sound quality. |
-| [Understanding Impedance](/UnderstandingImpedance) | We explain the basics of impedance, and how it impacts your audio signal strength and quality. We also discuss the practical considerations for striking a balance between preserving signal strength and minimizing noise.
+| [Understanding Impedance](/Understanding-Impedance) | We explain the basics of impedance, and how it impacts your audio signal strength and quality. We also discuss the practical considerations for striking a balance between preserving signal strength and minimizing noise. |
+| [Understanding Driver Load](/Understanding-Driver-Load) | We Dissect the concept of driver load requirements in audio power amplifiers. Along with some practical advice on driver selection.

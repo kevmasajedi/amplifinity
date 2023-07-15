@@ -18,7 +18,7 @@ In the visual model below, consider the AC voltage source as the output of our s
 
 In this simple model, we're using resistors to represent the impedance of the sound card and amplifier. Remember, impedance isn't just resistance, but for our introduction, we're sticking to resistive impedance to keep things straightforward.
 
-<p align="center"><img src="/UnderstandingImpedance/pics/1.png?raw=true" width="720px" /></p>
+<p align="center"><img src="/Understanding-Impedance/pics/1.png?raw=true" width="720px" /></p>
 
 In our simplified model, we assumed that the output impedance of our preamplifier (the sound card) is 50 ohms, which is a common approximation. However, keep in mind that the actual value might be different, and it's not safe to assume 50 ohms under all conditions.
 
@@ -34,4 +34,4 @@ So, where does that leave us? In practice, a good compromise is to aim for an in
 
 Thus, the process of choosing impedance values is a balancing act, one of many in the design of audio equipment.
 
-<p align="center"><img src="/UnderstandingImpedance/pics/2.png?raw=true" width="720px" /></p>
+<p align="center"><img src="/Understanding-Impedance/pics/2.png?raw=true" width="720px" /></p>

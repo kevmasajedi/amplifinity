@@ -20,7 +20,7 @@ Fortunately, it's hard to find a 2 ohm driver for purposes other than subwoofers
 
 Why is this? Because some 2 ohm loads can have even lower impedance at certain frequencies, approaching 1 ohm. This can trigger the amplifier's short-circuit protection and result in an unpleasant distortion known as clipping. Clipping sounds like the audio is being abruptly "cut off" or "clipped," hence the name. This sudden, harsh alteration in the signal can permanently damage tweeters, the small speakers responsible for reproducing high frequencies, due to their delicate construction and inability to handle such sudden, powerful shifts in the signal.
 
-## Section: Power Delivery
+## Power Delivery
 
 When examining the specifications of commercial amplifiers, you might notice that their output power is listed separately for different speaker impedances. For instance, you may see specs like "200W into 8 ohms" and "400W into 4 ohms". As you've observed, these values usually double when the impedance is halved.
 

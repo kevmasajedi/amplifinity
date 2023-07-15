@@ -1,4 +1,4 @@
-## Chapter 3: Understanding Driver Load
+# Chapter 3: Understanding Driver Load
 
 Let's talk about a parameter you may be familiar with when choosing a speaker driver - the impedance, which is often mistaken for resistance. If you've ever picked out a speaker driver, maybe for your car's sound system, you'll likely have seen these impedance values: 4, 6, 8, and less commonly, 2 ohms. Headphones typically have higher impedance values, but let's focus on loudspeakers for now.
 
